@@ -2199,7 +2199,7 @@ input, select, textarea {
 		#header .inner {
 			position: relative;
 			z-index: 1;
-			margin: 0;
+			margin: 10px 0 0 0;
 			display: inline-block;
 			vertical-align: middle;
 		}
