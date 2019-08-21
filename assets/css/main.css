@@ -2185,7 +2185,7 @@ input, select, textarea {
 		font-weight: 600;
 		opacity: 0.75;
 		text-align: center;
-		padding: 7.5em 0 2em 0;
+		padding: 0em 0 2em 0;
 		cursor: default;
 	}
 
@@ -2199,7 +2199,7 @@ input, select, textarea {
 		#header .inner {
 			position: relative;
 			z-index: 1;
-			margin: 10px 0 0 0;
+			margin: 0;
 			display: inline-block;
 			vertical-align: middle;
 		}
@@ -2410,14 +2410,14 @@ input, select, textarea {
 
 /* Banner */
 
-	#banner {
+	#aboutMe {
 		background: #fff;
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
 		margin-bottom: 0;
 	}
 
-		#banner header > p {
+		#aboutMe header > p {
 			margin-bottom: 0;
 		}
 
