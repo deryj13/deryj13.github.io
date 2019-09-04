@@ -2408,7 +2408,7 @@ input, select, textarea {
 				border-right: solid 0.75em rgba(64, 64, 64, 0);
 			}
 
-/* Banner */
+/* About Me */
 
 	#aboutMe {
 		background: #fff;
@@ -2463,13 +2463,13 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: #000000;
 		color: #fff;
 	}
 
 		#footer .icon.circled {
 			background: #fff;
-			color: #2b252c;
+			color: #000000;
 		}
 
 		#footer header {
